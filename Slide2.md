@@ -10,7 +10,7 @@
 - Quantidade de valores: 5
 - **Média aritmética: (10 + 15 + 20 + 25 + 30) / 5 = 20**
 - **Nova média aritmética: (15 + 20 + 25 + 30 + 35) / 5 = 25**
-- **Efeito:** O valor da média foi aumentado pelo valor adicionado aos valores anteriores.
+- **Efeito:** O aumento da média foi exatamente o valor adicionado aos elementos do conjunto.
 
 ### 3. Dado o somatório ![alt text](image.png), resolva o somatório e calcule a média dos valores resultantes.
 
